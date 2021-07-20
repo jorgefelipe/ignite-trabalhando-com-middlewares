@@ -15,5 +15,6 @@
  ```
  - yarn install -> para intalar as dependências 
  - yarn dev -> para starta a aplicação
+ - yarn test -> para rodar os teste
  
  ```
